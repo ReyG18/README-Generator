@@ -21,7 +21,7 @@ Use 'node index' in the Node command line to invoke the application. After answe
 
 ## Demo
 
-Refer to this [Demo Video](https://drive.google.com/file/d/1HX1SarvwPFA-9cEqB2OGOjvpxPw1nL3g/view?usp=sharing) for a visual on how to use this app.
+Refer to this [Demo Video](https://drive.google.com/file/d/1HX1SarvwPFA-9cEqB2OGOjvpxPw1nL3g/view?usp=sharing) for a visual of how this app functions and its intended usage.
 
 ## Questions
 
